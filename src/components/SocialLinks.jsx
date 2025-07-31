@@ -4,7 +4,7 @@ import { FaGithub, FaInstagram, FaLinkedin, FaWhatsapp } from "react-icons/fa"
 export const SocialLinks = () => {
     return (
         <div className="min-h-screen text-white flex flex-col items-center justify-center p-4">
-            <div className="bg-white/15 backdrop-blur-none rounded-md hover:bg-white/20 w-120 h-180 flex flex-col items-center justify-center px-4">
+            <div className="bg-white/15 backdrop-blur-none rounded-md hover:bg-white/20 w-120 h-180 flex flex-col items-center justify-center p-4">
 
                 <img
                     src="/img_perfil.jpeg"
