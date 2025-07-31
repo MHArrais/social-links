@@ -9,7 +9,7 @@ export const SocialLinks = () => {
                 <img
                     src="/img_perfil.jpeg"
                     alt="foto perfil"
-                    className="w-60 h-60 rounded-full mb-4 border-4 border-white shadow-md"
+                    className="w-50 h-60 rounded-full mb-4 border-4 border-white shadow-md"
                 />
 
                 <h1 className="text-4xl font-bold mb-1 text-stroke-white text-gray-800">Márcio Henrique Arrais</h1>
